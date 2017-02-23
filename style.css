@@ -1,0 +1,115 @@
+.background-color{
+  background-color: silver;
+}
+.back-color{
+  background-color: black;
+}
+.font{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  color: black;
+}
+.d-text{
+  font-family: Lobster,Monospace;
+  font-size: 50px;
+  color: white;
+}
+  .text{
+    font-family: 'Caveat Brush',cursive;
+    color: black;
+    font-size: 30px;
+  }
+.text1{
+  font-family: 'Sansita', sans-serif;
+  color: black;
+  font-size: 30px;
+}
+.background{
+  background-color: pink;
+}
+.back-color1{
+  background-color: black;
+}
+.font1{
+  font-family: Lobster,Monospace;
+  font-size: 50px;
+  color: white;
+}
+#logincont {
+    width: 800px;
+    float: right;
+}
+.text3{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 20px;
+  }
+.black-border{
+   border-color: black;
+   border-width: 7px;
+   border-style: solid;
+}
+*{
+	margin: 0;
+ }
+ html,body
+ {
+	       height: 100%;
+ }
+ h1,h2,h3,h4,h5,h6,p 
+ {
+	 margin-bottom: 20px;
+ }
+ .nav
+ {
+	  position: fixed;
+	  width: 100%;
+	  height: 50px;
+	  background-color: rg(0,0,0,5);
+	  z-index: 99;
+	  text-align: rightt;
+ }
+ .nava 
+ {
+	 text-declaration: none;
+	 color: #fff;
+	 float: right;
+	 margin-right: auto;
+ }	 
+ .font12
+ {
+	 font-family: 'Bahiana', cursive;
+	 color: white;
+	  width: 100%;
+	  height: 50px;
+	  position: fixed;
+	  z-index: 99;
+	  text-align: right;
+ }	
+.font13
+ {
+	 font-family: 'Bahiana', cursive;
+	 color: white;
+	  width: 100%;
+	  height: 50px;
+	  position: fixed;
+	  z-index: 99;
+	  text-align: left;
+ }	  
+.container
+{
+	width: 960px;
+	margin: 0px;
+}
+.header
+{
+  width: 100%;
+  position: fixed;
+  top: 0;
+ }  
+.logo
+{
+	float: left;
+}
+
+	
